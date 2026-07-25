@@ -6,6 +6,7 @@ An easily edit-able TVC mount model for any rocketry hobbyist to use on their ow
 ## Adjustments
 Ok as you can see below, the variables control the form factor of the amount so you can adjust it to adhere to whatever you'd like:
 <img width="209" height="515" alt="image" src="https://github.com/user-attachments/assets/405f4a75-8845-48ff-96cb-2532fa482569" />
+<br>
 Here's a brief description of each variable so you know exactly what each one represents
 #### MotorTubeOD
 Outer diameter of the motor tube the mount is built around
