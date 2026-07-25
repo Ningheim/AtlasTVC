@@ -27,7 +27,7 @@ Mounting offset for the first servo. The servo head/servo horn needs to be tange
 #### Servo2Offset
 Mounting offset for the second servo. The servo head/servo horn needs to be tangent in a way to the cylindrical part it's going to be pushing and pulling on. You'll see reference picture later on in this document.
 
-*NOTE: I have the servo mounts set to fit Miuzei MG90 Servos from the dimensions [here](https://manuals.plus/asin/B0BWJ26PX2). You can make your own but MG90s are often the gold standard for TVC in hobby rocketry*
+*NOTE: I have the servo mounts set to fit Miuzei MG90 Servos from the dimensions [here](https://manuals.plus/asin/B0BWJ26PX2). You can redesign the mounts to fit your own but MG90s are often the gold standard for TVC in hobby rocketry*
 
 ## Assembly
 
