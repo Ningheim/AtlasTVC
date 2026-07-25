@@ -1,7 +1,8 @@
 # AtlasTVC
 An easily edit-able TVC mount model for any rocketry hobbyist to use on their own rocket. From the clearance between gimbals, to the motor tube outder diameter that you'll be using with this design, everything here is easily adjustable via the variables seen inside the onshape document.
 
-*Note: I can't Commit the native CAD source file since it's simply accessible via a link*
+Access the onshape document [here](https://cad.onshape.com/documents/687bb891e5fdc86e637405f0/w/7709ffe7004c15a579f76044/e/4d2dc5f323421dbaa3c98495?renderMode=0&uiState=6a65378148685660edb522a3)
+*Note: I can't Commit the native CAD source file since the only option is to share via a link*
 
 ## Adjustments
 Ok as you can see below, the variables control the form factor of the amount so you can adjust it to adhere to whatever you'd like:
@@ -30,5 +31,16 @@ Mounting offset for the second servo. The servo head/servo horn needs to be tang
 *NOTE: I have the servo mounts set to fit Miuzei MG90 Servos from the dimensions [here](https://manuals.plus/asin/B0BWJ26PX2). You can redesign the mounts to fit your own but MG90s are often the gold standard for TVC in hobby rocketry*
 
 ## Assembly
+The [onshape document's](https://cad.onshape.com/documents/687bb891e5fdc86e637405f0/w/7709ffe7004c15a579f76044/e/4d2dc5f323421dbaa3c98495?renderMode=0&uiState=6a65378148685660edb522a3) assembly tab has the assembly with movable parts and a detailed render to help you mirror it with your own design.
+<br>
+<img width="191" height="268" alt="image" src="https://github.com/user-attachments/assets/6db4b9f5-505b-4425-a430-c66e84a5d5e0" />
+<br>
+First, you align the circular __indentations__ of the innermost gimbal and __holes__ of the secondary gimbal, then you insert the first pair of axis defining rods into the circular opennings to lock the pair in place. Once they're through, glue the circular faces of the axis-defining rods to the __circular indentations__ on the innermost gimbal.
+
+*NOTE: Sand the edges if you need to, all printers have imperfections so if the fit is too tight for you, sand the edges*
+
+Next, you align the circular __indentations__ of the secondary gimbal and __holes__ of the outermost/tertiary gimbal, then you insert the second pair of axis defining rods into the circular opennings to lock the pair in place. Once they're through, glue the circular faces of the axis-defining rods to the __circular indentations__ on the secondary gimbal.
+
+And after that, it's pretty straight forward, you can just slap on the servos, code them to your needs, and slide in the rocket to get ready to test and launch your TVC system. Make sure the servos are oriented with the wires going out the designated wire holes on each servo mount
 
 ## Production
