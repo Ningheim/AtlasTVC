@@ -5,6 +5,7 @@ An easily edit-able TVC mount model for any rocketry hobbyist to use on their ow
 <img width="808" height="636" alt="Atlas" src="https://github.com/user-attachments/assets/83ae976b-abd3-4c06-a9a3-81ab90df1e68" />
 
 Access the onshape document [here](https://cad.onshape.com/documents/687bb891e5fdc86e637405f0/w/7709ffe7004c15a579f76044/e/4d2dc5f323421dbaa3c98495?renderMode=0&uiState=6a65378148685660edb522a3)
+Printed model available on [Printables](https://www.printables.com/model/1791204-atlastvc)
 *Note: I can't Commit the native CAD source file since the only option is to share via a link*
 
 ## Adjustments
